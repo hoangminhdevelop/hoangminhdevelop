@@ -10,7 +10,7 @@ I'm Front-end developer
 &nbsp;
 <span><img src="https://img.shields.io/badge/NodeJs-282C34?logo=nodedotjs&logoColor=339933" alt="Node JS logo" title="Node Js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=61DAFB" alt="Git logo" title="Git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=FFFFFF" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
@@ -18,5 +18,5 @@ I'm Front-end developer
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=000000" alt="Express logo" title="Express" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express logo" title="Express" height="25" /></span>
 &nbsp;
