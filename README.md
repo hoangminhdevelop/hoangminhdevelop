@@ -10,9 +10,9 @@ I'm Front-end developer
 &nbsp;
 <span><img src="https://img.shields.io/badge/NodeJs-282C34?logo=nodedotjs&logoColor=339933" alt="Node JS logo" title="Node Js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=FFFFFF" alt="Git logo" title="Git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="Github logo" title="Github" height="25" /></span>
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" alt="GitLab logo" title="GitLab" height="25" /></span>
 &nbsp;
