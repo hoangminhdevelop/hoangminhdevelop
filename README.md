@@ -22,7 +22,5 @@ I'm Front-end developer
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=5fd5f4" alt="React logo" title="React" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/React-282C34?logo=vue&logoColor=5fd5f4" alt="React logo" title="React" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue-282C34?logo=vue&logoColor=FFFFFF" alt="Vue logo" title="Vue" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vue-282C34?logo=vuedotjs&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" /></span>
 &nbsp;
